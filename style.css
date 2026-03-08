@@ -8,7 +8,7 @@ header {
     width: 100%; 
     min-height: 720px;
     max-height: fit-content; 
-    background-image: url(../assets/hero.jpg);
+    background-image: url(./assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 0; 
